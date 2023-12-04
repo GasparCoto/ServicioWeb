@@ -1,0 +1,31 @@
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\bin\Debug\net6.0\Servicio MVC.staticwebassets.runtime.json
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\bin\Debug\net6.0\Servicio MVC.exe
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\bin\Debug\net6.0\Servicio MVC.deps.json
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\bin\Debug\net6.0\Servicio MVC.runtimeconfig.json
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\bin\Debug\net6.0\Servicio MVC.dll
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\bin\Debug\net6.0\Servicio MVC.pdb
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\Servicio MVC.csproj.AssemblyReference.cache
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\Servicio MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\Servicio MVC.AssemblyInfoInputs.cache
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\Servicio MVC.AssemblyInfo.cs
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\Servicio MVC.csproj.CoreCompileInputs.cache
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\Servicio MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\Servicio MVC.RazorAssemblyInfo.cache
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\Servicio MVC.RazorAssemblyInfo.cs
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\staticwebassets\msbuild.Servicio MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.Servicio MVC.props
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Servicio MVC.props
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Servicio MVC.props
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\scopedcss\bundle\Servicio MVC.styles.css
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\scopedcss\projectbundle\Servicio MVC.bundle.scp.css
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\Servicio MVC.dll
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\refint\Servicio MVC.dll
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\Servicio MVC.pdb
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\Servicio MVC.genruntimeconfig.cache
+C:\Users\Gaspa\source\repos\Servicio MVC\Servicio MVC\obj\Debug\net6.0\ref\Servicio MVC.dll
